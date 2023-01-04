@@ -1,3 +1,9 @@
+=============
+!!ATTENTION!!
+=============
+
+**Archived:** This repository was archived and is not maintained anymore. The lidarSuit project was renamed to lidarwind, please check https://github.com/jdiasn/lidarwind
+
 ======================
 lidarSuit introduction
 ======================
